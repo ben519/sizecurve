@@ -1,0 +1,13 @@
+date,variant,sales,depleted
+2021-01-01,small,15,False
+2021-01-01,medium,20,False
+2021-01-01,large,23,False
+2021-01-01,xl,11,False
+2021-01-02,small,73,False
+2021-01-02,medium,99,False
+2021-01-02,large,114,False
+2021-01-02,xl,105,False
+2021-01-03,small,2,True
+2021-01-03,medium,21,False
+2021-01-03,large,20,False
+2021-01-03,xl,15,False
